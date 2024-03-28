@@ -16,7 +16,7 @@ public class SistemaMensagem {
         System.out.println("Seu cadastro foi aprovado");
     }
     public void enviarMensagemBoasVindas(){
-        financeiro.setEmail("teste@teste.com");
+        financeiro.setEmail("patricia@google.com.br");
         System.out.println(financeiro);
         System.out.println("Bem-vindo a Tech");
     }
